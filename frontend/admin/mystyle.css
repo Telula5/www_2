@@ -1,0 +1,20 @@
+.text-d{
+    display:flex;
+   margin-top: 10%;
+    height :7em;
+}
+
+.upload .btn {
+    border: 1px solid gray;
+    margin-top: 3%;
+}
+.alert{
+    display: none;
+}
+/*-------  меннеджер email ------*/
+.delete-mail-btn {
+ width:20%;
+}
+.glob {
+    width:40%;
+}
